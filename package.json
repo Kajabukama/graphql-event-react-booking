@@ -1,0 +1,21 @@
+{
+  "name": "graphq-react-event-booking",
+  "version": "1.0.0",
+  "description": "Example Project on Using Graphql Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Yusuph H. Kajabukama",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.2.1",
+    "mongoose": "^5.4.21"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}

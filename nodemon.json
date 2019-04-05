@@ -1,0 +1,7 @@
+{
+   "env":{
+      "MONGO_USER":"kajabukama",
+      "MONGO_PASSWORD": "Developer2019*&",
+      "MONGO_DB": "graphql-event-booking"
+   }
+}
